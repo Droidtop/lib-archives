@@ -1,9 +1,9 @@
-# lib-archives
+# mytop-archives
 
 Shared code for droidtop, Pythia, Enginehost and droidtop-agent: unpacking (zip, 7z, rar, tar) and the one path guard.
 
-One of the shared libraries of Droidtop/tracker#867, in the split the owner approved on 2026-11-21
-(Droidtop/tracker#960, step 1.0). Where its code comes from: new; replaces the hand-written guards and extractors in droidtop, Enginehost, the agent and Pythia.
+One of the shared libraries of mytop-project/tracker#867, in the split the owner approved on 2026-11-21
+(mytop-project/tracker#960, step 1.0). Where its code comes from: new; replaces the hand-written guards and extractors in droidtop, Enginehost, the agent and Pythia.
 
 **Shared code with versions, not releases** (owner, 2026-11-21: "these libraries aren't standalone… They're shared
 code", then "we still make pinned versions, we just don't make releases. We can build them for testing and stuff, we
